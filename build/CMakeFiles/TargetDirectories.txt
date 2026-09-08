@@ -1,0 +1,3 @@
+/home/sevecl/Desktop/C/Firmware/UART/build/CMakeFiles/uart.dir
+/home/sevecl/Desktop/C/Firmware/UART/build/CMakeFiles/edit_cache.dir
+/home/sevecl/Desktop/C/Firmware/UART/build/CMakeFiles/rebuild_cache.dir

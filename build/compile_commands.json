@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/sevecl/Desktop/C/Firmware/UART/build",
+  "command": "/usr/bin/clang++ -I/home/sevecl/Desktop/C/Firmware/UART/include -g -std=gnu++20 -o CMakeFiles/uart.dir/main.cpp.o -c /home/sevecl/Desktop/C/Firmware/UART/main.cpp",
+  "file": "/home/sevecl/Desktop/C/Firmware/UART/main.cpp",
+  "output": "CMakeFiles/uart.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sevecl/Desktop/C/Firmware/UART/build",
+  "command": "/usr/bin/clang++ -I/home/sevecl/Desktop/C/Firmware/UART/include -g -std=gnu++20 -o CMakeFiles/uart.dir/src/uart.cpp.o -c /home/sevecl/Desktop/C/Firmware/UART/src/uart.cpp",
+  "file": "/home/sevecl/Desktop/C/Firmware/UART/src/uart.cpp",
+  "output": "CMakeFiles/uart.dir/src/uart.cpp.o"
+}
+]
