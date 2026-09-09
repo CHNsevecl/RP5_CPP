@@ -1,0 +1,3 @@
+/home/sevecl/Desktop/C/Firmware/QD4310/build/CMakeFiles/qd.dir
+/home/sevecl/Desktop/C/Firmware/QD4310/build/CMakeFiles/edit_cache.dir
+/home/sevecl/Desktop/C/Firmware/QD4310/build/CMakeFiles/rebuild_cache.dir
