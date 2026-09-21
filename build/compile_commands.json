@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/sevecl/Desktop/C/Firmware/GPIO/build",
+  "command": "/usr/bin/clang++ -I/home/sevecl/Desktop/C/Firmware/GPIO/include -g -std=gnu++20 -o CMakeFiles/gpio.dir/main.cpp.o -c /home/sevecl/Desktop/C/Firmware/GPIO/main.cpp",
+  "file": "/home/sevecl/Desktop/C/Firmware/GPIO/main.cpp",
+  "output": "CMakeFiles/gpio.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sevecl/Desktop/C/Firmware/GPIO/build",
+  "command": "/usr/bin/clang++ -I/home/sevecl/Desktop/C/Firmware/GPIO/include -g -std=gnu++20 -o CMakeFiles/gpio.dir/src/GPIO.cpp.o -c /home/sevecl/Desktop/C/Firmware/GPIO/src/GPIO.cpp",
+  "file": "/home/sevecl/Desktop/C/Firmware/GPIO/src/GPIO.cpp",
+  "output": "CMakeFiles/gpio.dir/src/GPIO.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/sevecl/Desktop/C/Firmware/GPIO/build/CMakeFiles/gpio.dir
+/home/sevecl/Desktop/C/Firmware/GPIO/build/CMakeFiles/edit_cache.dir
+/home/sevecl/Desktop/C/Firmware/GPIO/build/CMakeFiles/rebuild_cache.dir
